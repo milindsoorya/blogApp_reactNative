@@ -1,0 +1,6 @@
+jsonserver>> npm init
+jsonserver>> npm install json-server ngrok
+
+
+json server >> npm run db
+ngrok tunnel >> npm run tunnel
